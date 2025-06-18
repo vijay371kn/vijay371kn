@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Vijay Neelman
 
-<!--
-**vijay371kn/vijay371kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 I'm a passionate **Frontend Developer** from India.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack:
+- HTML, CSS, JavaScript
+- Tailwind CSS, Bootstrap
+- Git, GitHub
+- Currently learning React.js and Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects:
+- ✅ [ToDo App](https://github.com/vijay371kn/todo-app)
+- ✅ [Responsive Portfolio](https://github.com/vijay371kn/portfolio)
+- ✅ [Weather App](https://github.com/vijay371kn/weather-app)
+
+## 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay371kn&show_icons=true&theme=radical)
+
+## 🔗 Let's Connect!
+- 🌐 [LinkedIn](vijay-neelman-3a35052ba)
+- 📧 vijay371kn@gmail.com
